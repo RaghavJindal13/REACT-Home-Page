@@ -1,7 +1,7 @@
 # REACT-Home-Page
 
 ### Introduction
-- A clean boilerplate to start for projects built using nodejs, express and mongoDb
+- A single page web app build in react 
 
 ### [Live Demo](https://raga-react-home.netlify.app/)
 
